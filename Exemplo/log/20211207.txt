@@ -1,0 +1,68 @@
+07/12/2021 11:14:06 - [DOWNLOAD_NFCE_DADOS]
+07/12/2021 11:14:06 - {"chNFe":"43211207364617000135650000000222761537283827","tpAmb":"2","impressao":{"tipo":"pdf","ecologica":false,"itemLinhas":"1","itemDesconto":false,"larguraPapel":"80mm"}}
+07/12/2021 11:14:07 - [DOWNLOAD_NFCE_STATUS]
+07/12/2021 11:14:07 - 100
+07/12/2021 11:14:08 - [DOWNLOAD_NFCE_DADOS]
+07/12/2021 11:14:08 - {"chNFe":"43211207364617000135650000000222761537283827","tpAmb":"2","impressao":{"tipo":"pdf","ecologica":false,"itemLinhas":"1","itemDesconto":false,"larguraPapel":"80mm"}}
+07/12/2021 11:14:08 - [DOWNLOAD_NFCE_STATUS]
+07/12/2021 11:14:08 - 100
+07/12/2021 11:16:34 - [DOWNLOAD_NFCE_DADOS]
+07/12/2021 11:16:34 - {"chNFe":"43211207364617000135650000000222761537283827","tpAmb":"2","impressao":{"tipo":"pdf","ecologica":false,"itemLinhas":"1","itemDesconto":false,"larguraPapel":"80mm"}}
+07/12/2021 11:16:35 - [DOWNLOAD_NFCE_STATUS]
+07/12/2021 11:16:35 - 100
+07/12/2021 11:29:21 - [DOWNLOAD_NFCE_DADOS]
+07/12/2021 11:29:21 - {"chNFe":"43211207364617000135650000000222761537283827","tpAmb":"2","impressao":{"tipo":"pdf","ecologica":false,"itemLinhas":"1","itemDesconto":false,"larguraPapel":"80mm"}}
+07/12/2021 11:29:21 - [DOWNLOAD_NFCE_STATUS]
+07/12/2021 11:29:21 - 100
+07/12/2021 11:48:56 - [CANCELAMENTO_DADOS]
+07/12/2021 11:48:56 - {"chNFe":"43211207364617000135650000000222761537283827","tpAmb":"2","dhEvento":"2021-12-07T11:47:10-03:00","nProt":"143210000667778","xJust":"Cancelamento para teste de integracao"}
+07/12/2021 11:48:57 - [CANCELAMENTO_RESPOSTA]
+07/12/2021 11:48:57 - {"status":-135,"motivo":"Nao foi possivel cancelar a NFC-e","nfeProc":{"cStat":501,"xMotivo":"Rejeicao: Prazo de Cancelamento Superior ao Previsto na Legislacao"}}
+07/12/2021 11:54:25 - [CANCELAMENTO_DADOS]
+07/12/2021 11:54:25 - {"chNFe":"43211207364617000135650000000222761537283827","tpAmb":"2","dhEvento":"2021-12-07T11:54:10-02:00","nProt":"143210000667778","xJust":"Cancelado para teste de integracao"}
+07/12/2021 11:54:26 - [CANCELAMENTO_RESPOSTA]
+07/12/2021 11:54:26 - {"status":-135,"motivo":"Nao foi possivel cancelar a NFC-e","nfeProc":{"cStat":501,"xMotivo":"Rejeicao: Prazo de Cancelamento Superior ao Previsto na Legislacao"}}
+07/12/2021 11:57:54 - [CANCELAMENTO_DADOS]
+07/12/2021 11:57:54 - {"chNFe":"43211207364617000135650000000222761537283827","tpAmb":"2","dhEvento":"2021-12-07T11:57:10-02:00","nProt":"143210000667778","xJust":"Cancelamento para teste de integracao"}
+07/12/2021 11:57:55 - [CANCELAMENTO_RESPOSTA]
+07/12/2021 11:57:55 - {"status":-135,"motivo":"Nao foi possivel cancelar a NFC-e","nfeProc":{"cStat":501,"xMotivo":"Rejeicao: Prazo de Cancelamento Superior ao Previsto na Legislacao"}}
+07/12/2021 14:05:16 - [CANCELAMENTO_DADOS]
+07/12/2021 14:05:16 - {"chNFe":"43211207364617000135650000000222761537283827","tpAmb":"2","dhEvento":"2021-12-07T14:03:10-02:00","nProt":"143210000667778","xJust":"Cancelamento para teste de integracao"}
+07/12/2021 14:05:18 - [CANCELAMENTO_RESPOSTA]
+07/12/2021 14:05:18 - {"status":-135,"motivo":"Nao foi possivel cancelar a NFC-e","nfeProc":{"cStat":501,"xMotivo":"Rejeicao: Prazo de Cancelamento Superior ao Previsto na Legislacao"}}
+07/12/2021 14:18:47 - [CANCELAMENTO_DADOS]
+07/12/2021 14:18:47 - {"chNFe":"43211207364617000135650000000222761537283827","tpAmb":"2","dhEvento":"2021-12-07T14:18:10-02:00","nProt":"143210000667778","xJust":"Cancelamento para teste de integracao"}
+07/12/2021 14:18:48 - [CANCELAMENTO_RESPOSTA]
+07/12/2021 14:18:48 - {"status":-135,"motivo":"Nao foi possivel cancelar a NFC-e","nfeProc":{"cStat":501,"xMotivo":"Rejeicao: Prazo de Cancelamento Superior ao Previsto na Legislacao"}}
+07/12/2021 14:19:02 - [CANCELAMENTO_DADOS]
+07/12/2021 14:19:02 - {"chNFe":"43211207364617000135650000000222761537283827","tpAmb":"2","dhEvento":"2021-12-07T14:18:10-02:00","nProt":"143210000667778","xJust":"Cancelamento para teste de integracao"}
+07/12/2021 14:19:03 - [CANCELAMENTO_RESPOSTA]
+07/12/2021 14:19:03 - {"status":-135,"motivo":"Nao foi possivel cancelar a NFC-e","nfeProc":{"cStat":501,"xMotivo":"Rejeicao: Prazo de Cancelamento Superior ao Previsto na Legislacao"}}
+07/12/2021 14:19:11 - [CANCELAMENTO_DADOS]
+07/12/2021 14:19:11 - {"chNFe":"43211207364617000135650000000222761537283827","tpAmb":"2","dhEvento":"2021-12-07T14:18:10-02:00","nProt":"143210000667778","xJust":"Cancelamento para teste de integracao"}
+07/12/2021 14:19:11 - [CANCELAMENTO_RESPOSTA]
+07/12/2021 14:19:11 - {"status":-135,"motivo":"Nao foi possivel cancelar a NFC-e","nfeProc":{"cStat":501,"xMotivo":"Rejeicao: Prazo de Cancelamento Superior ao Previsto na Legislacao"}}
+07/12/2021 14:21:53 - [CANCELAMENTO_DADOS]
+07/12/2021 14:21:53 - {"chNFe":"43211207364617000135650000000222761537283827","tpAmb":"2","dhEvento":"2021-12-07T14:18:10-02:00","nProt":"143210000667778","xJust":"Cancelamento para teste de integracao"}
+07/12/2021 14:21:54 - [CANCELAMENTO_RESPOSTA]
+07/12/2021 14:21:54 - {"status":-135,"motivo":"Nao foi possivel cancelar a NFC-e","nfeProc":{"cStat":501,"xMotivo":"Rejeicao: Prazo de Cancelamento Superior ao Previsto na Legislacao"}}
+07/12/2021 14:26:09 - [CANCELAMENTO_DADOS]
+07/12/2021 14:26:09 - {"chNFe":"43211207364617000135650000000222781000069908","tpAmb":"2","dhEvento":"2021-12-07T14:25:10-02:00","nProt":"143210000668301","xJust":"Cancelada para teste de integracao"}
+07/12/2021 14:26:10 - [CANCELAMENTO_RESPOSTA]
+07/12/2021 14:26:10 - {"status":-135,"motivo":"Nao foi possivel cancelar a NFC-e","nfeProc":{"cStat":577,"xMotivo":"Rejeicao: A data do evento nao pode ser menor que a data de emissao da NF-e"}}
+07/12/2021 14:26:29 - [CANCELAMENTO_DADOS]
+07/12/2021 14:26:29 - {"chNFe":"43211207364617000135650000000222781000069908","tpAmb":"2","dhEvento":"2021-12-07T14:25:10-03:00","nProt":"143210000668301","xJust":"Cancelada para teste de integracao"}
+07/12/2021 14:26:29 - [CANCELAMENTO_RESPOSTA]
+07/12/2021 14:26:29 - {"status":135,"motivo":"NFC-e cancelada com sucesso","retEvento":{"cStat":"135","xMotivo":"Evento registrado e vinculado a NF-e","chNFe":"43211207364617000135650000000222781000069908","dhRegEvento":"2021-12-07T14:26:29-03:00","nProt":"143210000668319"},"xml":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><procEventoNFe xmlns=\"http://www.portalfiscal.inf.br/nfe\" versao=\"1.00\"><evento versao=\"1.00\" xmlns=\"http://www.portalfiscal.inf.br/nfe\"><infEvento Id=\"ID1101114321120736461700013565000000022278100006990801\"><cOrgao>43</cOrgao><tpAmb>2</tpAmb><CNPJ>07364617000135</CNPJ><chNFe>43211207364617000135650000000222781000069908</chNFe><dhEvento>2021-12-07T14:25:10-03:00</dhEvento><tpEvento>110111</tpEvento><nSeqEvento>1</nSeqEvento><verEvento>1.00</verEvento><detEvento versao=\"1.00\"><descEvento>Cancelamento</descEvento><nProt>143210000668301</nProt><xJust>Cancelada para teste de integracao</xJust></detEvento></infEvento></evento><retEvento xmlns=\"http://www.portalfiscal.inf.br/nfe\" versao=\"1.00\"><infEvento><tpAmb>2</tpAmb><verAplic>RSnfce201905151543</verAplic><cOrgao>43</cOrgao><cStat>135</cStat><xMotivo>Evento registrado e vinculado a NF-e</xMotivo><chNFe>43211207364617000135650000000222781000069908</chNFe><tpEvento>110111</tpEvento><nSeqEvento>1</nSeqEvento><dhRegEvento>2021-12-07T14:26:29-03:00</dhRegEvento><nProt>143210000668319</nProt></infEvento></retEvento></procEventoNFe>"}
+07/12/2021 14:26:29 - [DOWNLOAD_NFCE_DADOS]
+07/12/2021 14:26:29 - {"chNFe":"43211207364617000135650000000222781000069908","tpAmb":"2","impressao":{"tipo":"pdf","ecologica":false,"itemLinhas":"1","itemDesconto":false,"larguraPapel":"80mm"}}
+07/12/2021 14:26:29 - [DOWNLOAD_NFCE_STATUS]
+07/12/2021 14:26:29 - 100
+07/12/2021 14:37:03 - [CONSULTA_SITUACAO_DADOS]
+07/12/2021 14:37:03 - {"chNFe":"43211207364617000135650000000222781000069908","tpAmb":"2"}
+07/12/2021 14:37:04 - [CONSULTA_SITUACAO_RESPOSTA]
+07/12/2021 14:37:04 - {"status":100,"motivo":"Situacao da NFC-e obtida com sucesso","nfeProc":{"cStat":"100","xMotivo":"Autorizado o uso da NF-e","chNFe":"43211207364617000135650000000222781000069908","dhRecbto":"2021-12-07T14:25:21-03:00","nProt":"143210000668301","digVal":"i60BbI+UvU9OwDWuVBlIeueQXOI=","verAplic":"RSnfce202111190951"},"retEvento":{"cStat":"135","xMotivo":"Evento registrado e vinculado a NF-e","chNFeCanc":"1101114321120736461700013565000000022278100006990801","dhRegEvento":"2021-12-07T14:26:29-03:00","nProt":"143210000668319"}}
+07/12/2021 15:05:30 - [INUTILIZACAO_DADOS]
+07/12/2021 15:05:30 - {"cUF":"43","tpAmb":"2","ano":"21","CNPJ":"07364617000135","serie":"0","nNFIni":"22280","nNFFin":"22280","xJust":"Inutilizacao realizada para teste de integracao"}
+07/12/2021 15:05:31 - [INUTILIZACAO_RESPOSTA]
+07/12/2021 15:05:31 - {"status":102,"motivo":"Inutilizacao de numero homologada","retInutNFe":{"cStat":"102","xMotivo":"Inutilizacao de numero homologado","dhRecbto":"2021-12-07T15:05:31-03:00","nProt":"143210000668694","idInut":"43210736461700013565000000022280000022280","xml":"<?xml version=\"1.0\" encoding=\"utf-8\"?><ProcInutNFe versao=\"4.00\" xmlns=\"http://www.portalfiscal.inf.br/nfe\"><inutNFe versao=\"4.00\"><infInut Id=\"ID43210736461700013565000000022280000022280\"><tpAmb>2</tpAmb><xServ>INUTILIZAR</xServ><cUF>43</cUF><ano>21</ano><CNPJ>07364617000135</CNPJ><mod>65</mod><serie>0</serie><nNFIni>22280</nNFIni><nNFFin>22280</nNFFin><xJust>Inutilizacao realizada para teste de integracao</xJust></infInut><Signature xmlns=\"http://www.w3.org/2000/09/xmldsig#\"><SignedInfo><CanonicalizationMethod Algorithm=\"http://www.w3.org/TR/2001/REC-xml-c14n-20010315\" /><SignatureMethod Algorithm=\"http://www.w3.org/2000/09/xmldsig#rsa-sha1\" /><Reference URI=\"#ID43210736461700013565000000022280000022280\"><Transforms><Transform Algorithm=\"http://www.w3.org/2000/09/xmldsig#enveloped-signature\" /><Transform Algorithm=\"http://www.w3.org/TR/2001/REC-xml-c14n-20010315\" /></Transforms><DigestMethod Algorithm=\"http://www.w3.org/2000/09/xmldsig#sha1\" /><DigestValue>YkVwYYKNNyw95OQzH6TFCq2dpRs=</DigestValue></Reference></SignedInfo><SignatureValue>1rrQX7i+4S3Zm/dZgG9jO+yoNtNi26IAdAzeyFXcszRkySR5DOkYrI5/aD/cO6mdYK/r5XrDxxYPc3Me8K3h2B1mcV3aePP+YNkJpO5TE7S0xlkHEfnFZUhiA1NR6LWFB8kUohQC1w1h2ZMWJ0icO5RMa+RqaPghLJE2PLx1SeGzT0ZZb0uYC0YqeU+fKNiychvuyRu0Huy5cqPNtC+fy2jv/LB38TVtU2MEOGAyxEAb3eKgyHeK2HxBQKKMD/Oziit60fVjJumZS5vxXsgjzJ1bA0uTkGCnb3Q+s7XdRWFwc505MO4ayAzZIqnCfwlm/mNghD2dLnExymzY+eB8Mw==</SignatureValue><KeyInfo><X509Data><X509Certificate>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</X509Certificate></X509Data></KeyInfo></Signature></inutNFe><retInutNFe versao=\"4.00\"><infInut Id=\"Id43210736461700013565000000022280000022280\"><tpAmb>2</tpAmb><verAplic>RSnfce201905151442</verAplic><cStat>102</cStat><xMotivo>Inutilizacao de numero homologado</xMotivo><cUF>43</cUF><ano>21</ano><CNPJ>07364617000135</CNPJ><serie>0</serie><nNFIni>22280</nNFIni><nNFFin>22280</nNFFin><dhRecbto>2021-12-07T15:05:31-03:00</dhRecbto><nProt>143210000668694</nProt></infInut></retInutNFe></ProcInutNFe>"}}

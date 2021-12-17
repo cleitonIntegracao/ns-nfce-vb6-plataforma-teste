@@ -1,0 +1,7 @@
+base64Convert = 34, 23, 1005, 637, C
+frmNFCeAPI = 26, 26, 913, 478, C, 28, 7, 895, 626, C
+NFCeAPI = 42, 35, 927, 486, C
+frmDownloadNFCe = 78, 78, 965, 530, C, -9, -2, 878, 450, C
+frmCancelarNFCe = 0, 0, 887, 452, C, 116, 39, 1001, 538, C
+frmConsultaSituacao = 52, 52, 945, 504, CI, 0, 0, 893, 452, C
+frmInutilizar = 205, 165, 1098, 617, C, 1, 1, 894, 453, C
